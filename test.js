@@ -12,3 +12,7 @@
 // ==/UserScript==
 
 console.log("Hello, World!");
+for (let i = 0; i < 5; i++) {
+  console.log(i);
+}
+console.log("See ya later, World!");
