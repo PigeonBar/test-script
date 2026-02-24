@@ -6,6 +6,7 @@
 // @author       PigeonBar
 // @match        https://flowr.fun/
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=flowr.fun
+// @downloadURL  https://raw.githubusercontent.com/PigeonBar/test-script/refs/heads/main/test.js
 // @updateURL    https://raw.githubusercontent.com/PigeonBar/test-script/refs/heads/main/test.js
 // @grant        none
 // ==/UserScript==
