@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Flowr - Update Test
 // @namespace    http://tampermonkey.net/
-// @version      2026-02-23
+// @version      1.0.0
 // @description  I am testing Tampermonkey's ability to detect updates for userscripts posted on Github.
 // @author       PigeonBar
 // @match        https://flowr.fun/
@@ -12,7 +12,3 @@
 // ==/UserScript==
 
 console.log("Hello, World!");
-for (let i = 0; i < 5; i++) {
-  console.log(i);
-}
-console.log("See ya later, World!");
