@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Flowr - Update Test
 // @namespace    http://tampermonkey.net/
-// @version      1.0.3 (06-24-2026)
+// @version      1.0.4 (06-25-2026)
 // @description  I am testing Tampermonkey's ability to detect updates for userscripts posted on Github.
 // @author       PigeonBar
 // @match        https://flowr.fun/
